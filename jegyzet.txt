@@ -2,3 +2,4 @@ egy sor tartalom
 második soros tartalom
 ez a sor main ágon lett beszúrva
 ez a sor masodlagos-ag ágon lett beszúrva
+uj sor lokalisan hozzaadva
