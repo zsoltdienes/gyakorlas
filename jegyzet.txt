@@ -4,3 +4,4 @@ ez a sor main ágon lett beszúrva
 ez a sor masodlagos-ag ágon lett beszúrva
 uj sor lokalisan hozzaadva
 ez a sor online lett hozzaadva
+PULL REQUEST elotti sor a masodlagos-ag-on
