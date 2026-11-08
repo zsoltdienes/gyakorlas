@@ -1,9 +1,9 @@
-- name: Valid XML
+name: Valid XML
   # You may pin to the exact commit or the version.
   # uses: action-pack/valid-xml@2b75f0f5861c01f329e0c15530e052fd83a8b19c
-  uses: action-pack/valid-xml@v1.13
-  with:
+uses: action-pack/valid-xml@v1.13
+with:
     # Path to scan
-    path: # optional, default is /
+path: # optional, default is /
     # Comma-separated file endings that are checked to be valid XML files. Capitalization is ignored.
-    file-endings: # optional, default is .xml
+file-endings: # optional, default is .xml
